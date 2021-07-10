@@ -1,0 +1,7 @@
+homeseer:
+   url: 127.0.0.1
+   user: guest
+   pass: guest
+server:
+   host: ''
+   port: 8000
